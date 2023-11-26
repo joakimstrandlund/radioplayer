@@ -1,0 +1,20 @@
+#channels {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.picture {
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+  padding: 10px;
+  margin-bottom: 20px;
+  border-radius: 20px;
+  width: 500px;
+}
+
+img {
+  width: 100px;
+}
